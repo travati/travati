@@ -1753,6 +1753,13 @@ body {
 .cid-qIivUkU2J8 .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-qIiFvppFkq {
+  background: linear-gradient(45deg, #fbac7f, #e5658a);
+}
+.cid-qIiFvppFkq .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-qIiwtoMXfx {
   padding-top: 90px;
   padding-bottom: 90px;
